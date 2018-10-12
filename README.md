@@ -5,5 +5,5 @@ suitable for EFK stack on Kubernetes.
 You can get automatically built image from Docker Hub using:
 
 ```
-docker pull rutsky/kibana-logtrail-kubernetes:4.6.1-0.1.7-2
+docker pull aldnav/kibana-logtrail-kubernetes/:latest
 ```
